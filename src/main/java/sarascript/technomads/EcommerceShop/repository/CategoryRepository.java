@@ -6,4 +6,5 @@ import sarascript.technomads.EcommerceShop.model.Category;
 
 @Repository
 public interface CategoryRepository extends JpaRepository <Category, Integer> {
+
 }
